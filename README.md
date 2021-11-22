@@ -3,7 +3,7 @@
 #### **Nuke any server, at any time.**
 
 ## Information:
-- This can be used to nuke bots.
+- This can be used to nuke servers.
 - I'm not responsible for your actions and the things you do with this bot, it has been made for educational purposes only.
 - This file is licensed under MIT license.
 
