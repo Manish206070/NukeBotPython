@@ -8,5 +8,5 @@
 - This file is licensed under MIT license.
 
 ## Video Tutorial & Usage:
-  - (V1 - Current): [Youtube Link](https://www.youtube.com/watch?v=70r2YtvzY2U)
-  - (V2 - Upcoming): Soon.
+  - (V1 - Outdated): [Youtube Link](https://www.youtube.com/watch?v=70r2YtvzY2U)
+  - (V2 - Current): [Youtube Link](https://www.youtube.com/watch?v=nuqUf23FJ60)
