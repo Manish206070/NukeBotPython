@@ -15,7 +15,7 @@ NO_PREFIX = False # Set it to True if you'd like to not have a prefix
 
 
 
-if not OWNERS_IDS:
+if OWNER_ONLY and not OWNERS_IDS:
   print('Add at least 1 user ID to OWNER_IDS in order for the bot to work. | Press Enter to close this window.')
   input()
   exit()
