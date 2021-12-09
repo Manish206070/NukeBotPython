@@ -3,14 +3,14 @@ from discord.ext import commands
 
 # Don't play with any of the code if you don't understand it
 
-TOKEN = ''
-PREFIX = ''
+TOKEN = 'OTE4MzQxMzgwMjU2OTY4NzE1.YbF2Dw.AwAUAONktDtIYYTwwtS07ss7Qlo'
+PREFIX = '!'
 OWNER_ONLY = False # Set to True if you want the bot commands to be useable by users whom got their ID added to OWNER_IDS only
-OWNERS_IDS = []
+OWNERS_IDS = [785068746070818836]
               # Append the IDs of the users that you'd like to be able to use the bot
               # used if OWNER_ONLY was set to True
-DELETE_AFTER_EXECTUE = False # Set it to True if you'd like to delete the command after executing it.
-NO_PREFIX = False # Set it to True if you'd like to not have a prefix
+DELETE_AFTER_EXECTUE = True # Set it to True if you'd like to delete the command after executing it.
+NO_PREFIX =  # Set it to True if you'd like to not have a prefix
                   # [ Commands work by just typing them ]
 
 
